@@ -43,6 +43,20 @@
     
 * **v 1.0** 全套课程上线
 
+## 课程相关其他代码仓
+
+* [**《玩转算法面试》课程**](https://coding.imooc.com/class/82.html), 代码仓: [Play-with-Algorithm-Interview](https://github.com/liuyubobobo/Play-with-Algorithm-Interview)
+
+* [**《看得见的算法》课程**](https://coding.imooc.com/class/138.html), 代码仓: [Play-with-Algorithm-Visualization](https://github.com/liuyubobobo/Play-with-Algorithm-Visualization)
+
+* [**《玩转数据结构》课程**](https://coding.imooc.com/class/207.html), 代码仓: [Play-with-Algorithm-Visualization](https://github.com/liuyubobobo/Play-with-Data-Structures)
+
+* 我的**LeetCode题解代码仓**：[Play Leetcode](https://github.com/liuyubobobo/Play-Leetcode) （注：以C++实现为主）
+
+* [@ShiveryMoon 同学的本课程Python代码仓](https://github.com/ShiveryMoon/Imooc-Algorithm-PythonEdition)
+
+* [@摘星fy 同学的Canvas版本可视化堆排序过程](https://github.com/kingAnyWHere/MaxHeap)，同时也是一个很好的堆结构的可视化。
+
 ## 课程源码目录 
 
 | **第一章 当我们谈论算法的时候，我们在谈论什么？** | [无代码] | | 
@@ -99,11 +113,11 @@
 | 补充1 优化的Shift Up和Shift Down | [C++源码](https://github.com/liuyubobobo/Play-with-Algorithms/tree/master/04-Heap/Course%20Code%20(C%2B%2B)/Optional-1-Optimized-Shift-Up-and-Shift-Down) | [Java源码](https://github.com/liuyubobobo/Play-with-Algorithms/tree/master/04-Heap/Course%20Code%20(Java)/Optional-1-Optimized-Shift-Up-and-Shift-Down/src/bobo/algo) |
 | 补充2 最小堆 | [C++源码](https://github.com/liuyubobobo/Play-with-Algorithms/tree/master/04-Heap/Course%20Code%20(C%2B%2B)/Optional-2-Min-Heap) | [Java源码](https://github.com/liuyubobobo/Play-with-Algorithms/tree/master/04-Heap/Course%20Code%20(Java)/Optional-2-Min-Heap/src/bobo/algo) |
 | 补充3 最小索引堆 | [C++源码](https://github.com/liuyubobobo/Play-with-Algorithms/tree/master/04-Heap/Course%20Code%20(C%2B%2B)/Optional-3-Index-Min-Heap) | [Java源码](https://github.com/liuyubobobo/Play-with-Algorithms/tree/master/04-Heap/Course%20Code%20(Java)/Optional-3-Index-Min-Heap/src/bobo/algo) |
-| 补充4 从0开始索引的最大堆和最小堆 | [玩转数据结构](https://coding.imooc.com/class/207.html) | [第八章] |
+| 补充4 从0开始索引的最大堆和最小堆 | [玩转数据结构](https://coding.imooc.com/class/207.html) | [第八章](https://coding.imooc.com/lesson/207.html#mid=13738) |
 | 补充5 从0开始索引的最大索引堆和最小索引堆 | [整理中] | [敬请期待] |
 | 补充6 堆排序可视化 (Java) | [看得见的算法](http://coding.imooc.com/class/138.html) | [第四章第11小节](http://coding.imooc.com/lesson/138.html#mid=7092) |
-| 补充7 可以空间动态扩展的堆结构<br/>思路参见《[玩转算法面试](http://coding.imooc.com/class/82.html)》第二章最后两小节 | [玩转数据结构](https://coding.imooc.com/class/207.html) | [第八章] |
-| 补充8 N个元素中的前M大(或小)元素 | [玩转数据结构](https://coding.imooc.com/class/207.html) | [第八章 8-7, 8-8] |
+| 补充7 可以空间动态扩展的堆结构 | [玩转数据结构](https://coding.imooc.com/class/207.html) | [第八章](https://coding.imooc.com/lesson/207.html#mid=13738) |
+| 补充8 N个元素中的前M大(或小)元素 | [玩转数据结构](https://coding.imooc.com/class/207.html) | [第八章 7，8小节](https://coding.imooc.com/lesson/207.html#mid=13744) |
 | 补充9 双向优先队列 | [整理中] | [敬请期待] |
 | 补充10 多叉堆 | [整理中] | [敬请期待] |
 | 补充11 斐波那契额堆 | [整理中] | [敬请期待] |
@@ -131,30 +145,31 @@
 | 补充6 二分搜索树中的前驱和后继 | [C++源码](https://github.com/liuyubobobo/Play-with-Algorithms/tree/master/05-Binary-Search-Tree/Course%20Code%20(C%2B%2B)/Optional-06-Predecessor-and-Successor-in-BST/) | [Java源码](https://github.com/liuyubobobo/Play-with-Algorithms/tree/master/05-Binary-Search-Tree/Course%20Code%20(Java)/Optional-06-Predecessor-and-Successor-in-BST/src/bobo/algo/) |
 | 补充7 二分搜索树中的rank和select | [整理中] | [敬请期待] |
 | 补充8 二分搜索树前中后序非递归遍历<br/>深入理解非递归和递归的区别，以及非递归和栈的关系 | [玩转算法面试](http://coding.imooc.com/class/82.html) | [第六章2，3小节](http://coding.imooc.com/lesson/82.html#mid=2675) |
-| 补充9 二分搜索树整体的非递归实现 | [整理中] | [敬请期待] |
-| 补充10 拥有指向父节点指针Node的二分搜索树 | [整理中] | [敬请期待] |
-| 补充11 二分搜索树的另一个应用：Tree Set | [整理中] | [敬请期待] |
-| 补充12 允许重复键值的二分搜索树：Multi Tree Set / Map | [整理中] | [敬请期待] |
-| 补充13 更多二分搜索树（或者二叉树）相关的面试问题 | [玩转算法面试](http://coding.imooc.com/class/82.html) | [第七章](http://coding.imooc.com/lesson/82.html#mid=2681) |
-| 补充14 二叉树的公共祖先 (LCA) | [整理中] | [敬请期待] |
-| 补充15 树形问题和回溯法 | [玩转算法面试](http://coding.imooc.com/class/82.html) | [第八章](http://coding.imooc.com/lesson/82.html#mid=2687) |
-| 补充16 树形问题之八皇后问题 | [玩转算法面试](http://coding.imooc.com/class/82.html#Anchor) | [第八章第8小节](http://coding.imooc.com/lesson/82.html#mid=2695) |
-| 补充17 走迷宫 (Java) | [看得见的算法](http://coding.imooc.com/class/138.html) | [第五章](http://coding.imooc.com/lesson/138.html#mid=7064) |
-| 补充18 树形问题之 Move the Box 求解 (Java) | [看得见的算法](http://coding.imooc.com/class/138.html) | [第八章](http://coding.imooc.com/lesson/138.html#mid=7440) |
-| 补充19 Trie | [玩转数据结构](https://coding.imooc.com/class/207.html) | [第十章] |
-| 补充20 区间树(线段树) | [玩转数据结构](https://coding.imooc.com/class/207.html) | [第九章] |
-| 补充21 KD树 | [整理中] | [敬请期待] |
-| 补充22 哈夫曼树 | [整理中] | [敬请期待] |
-| 补充23 使用哈夫曼树进行文件压缩 | [整理中] | [敬请期待] |
-| 补充24 AVL | [玩转数据结构](https://coding.imooc.com/class/207.html) | [第十二章] |
-| 补充25 红黑树 | [玩转数据结构](https://coding.imooc.com/class/207.html) | [第十三章] |
-| 补充26 伸展树 | [整理中] | [敬请期待] |
-| 补充27 B树 | [整理中] | [敬请期待] |
-| 补充28 Treap | [整理 中] | [敬请期待] |
-| 补充29 树形问题之数独求解 | [整理中] | [敬请期待] |
-| 补充30 数独求解之特殊数据结构 | [整理中] | [敬请期待] |
-| 补充31 树形问题之八数码问题 (A*算法初步) | [整理中] | [敬请期待] |
-| 补充32 树形问题之推箱子自动求解 | [整理中] | [敬请期待] |
+| 补充9 二叉树前中后序遍历的经典非递归实现 | [C++](05-Binary-Search-Tree/Course%20Code%20(C%2B%2B)/Optional-09-Binary-Tree-Classic-Nonrecursive-Traversal/) | [Java](05-Binary-Search-Tree/Course%20Code%20(Java)/Optional-09-Binary-Tree-Classic-Nonrecursive-Traversal/) |
+| 补充10 二叉树的Morris前中后序遍历 | [C++](05-Binary-Search-Tree/Course%20Code%20(C%2B%2B)/Optional-10-Binary-Tree-Morris-Traversal/) | [Java](05-Binary-Search-Tree/Course%20Code%20(Java)/Optional-10-Binary-Tree-Morris-Traversal/src/) |
+| 补充11 二分搜索树整体的非递归实现 | [整理中] | [敬请期待] |
+| 补充12 二分搜索树的另一个应用：Tree Set | [玩转数据结构](https://coding.imooc.com/class/207.html) | [第六章，第七章](https://coding.imooc.com/lesson/207.html#mid=13454) |
+| 补充13 允许重复键值的二分搜索树：Multi Tree Set / Map | [整理中] | [敬请期待] |
+| 补充14 更多二分搜索树（或者二叉树）相关的面试问题 | [玩转算法面试](http://coding.imooc.com/class/82.html) | [第七章](http://coding.imooc.com/lesson/82.html#mid=2681) |
+| 补充15 二叉树的公共祖先 (LCA) | [整理中] | [敬请期待] |
+| 补充16 树形问题和回溯法 | [玩转算法面试](http://coding.imooc.com/class/82.html) | [第八章](http://coding.imooc.com/lesson/82.html#mid=2687) |
+| 补充17 树形问题之八皇后问题 | [玩转算法面试](http://coding.imooc.com/class/82.html#Anchor) | [第八章第8小节](http://coding.imooc.com/lesson/82.html#mid=2695) |
+| 补充18 走迷宫 (Java) | [看得见的算法](http://coding.imooc.com/class/138.html) | [第五章](http://coding.imooc.com/lesson/138.html#mid=7064) |
+| 补充19 树形问题之 Move the Box 求解 (Java) | [看得见的算法](http://coding.imooc.com/class/138.html) | [第八章](http://coding.imooc.com/lesson/138.html#mid=7440) |
+| 补充20 线段树 (区间树) | [玩转数据结构](https://coding.imooc.com/class/207.html) | [第九章](https://coding.imooc.com/lesson/207.html#mid=13843) |
+| 补充21 Trie | [玩转数据结构](https://coding.imooc.com/class/207.html) | [第十章](https://coding.imooc.com/lesson/207.html#mid=13850) |
+| 补充22 KD树 | [整理中] | [敬请期待] |
+| 补充23 哈夫曼树 | [整理中] | [敬请期待] |
+| 补充24 使用哈夫曼树进行文件压缩 | [整理中] | [敬请期待] |
+| 补充25 AVL树 | [玩转数据结构](https://coding.imooc.com/class/207.html) | [第十二章](https://coding.imooc.com/lesson/207.html#mid=14346) |
+| 补充26 红黑树 | [玩转数据结构](https://coding.imooc.com/class/207.html) | [第十三章] |
+| 补充27 伸展树 | [整理中] | [敬请期待] |
+| 补充28 B类树 | [玩转数据结构](https://coding.imooc.com/class/207.html) | [第十六章] |
+| 补充29 Treap | [整理中] | [敬请期待] |
+| 补充30 树形问题之数独求解 | [整理中] | [敬请期待] |
+| 补充31 数独求解之特殊数据结构 | [整理中] | [敬请期待] |
+| 补充32 树形问题之八数码问题 (A*算法初步) | [整理中] | [敬请期待] |
+| 补充33 树形问题之推箱子自动求解 | [整理中] | [敬请期待] |
 | **第六章 并查集** | [章节C++源码](https://github.com/liuyubobobo/Play-with-Algorithms/tree/master/06-Union-Find/Course%20Code%20(C%2B%2B)) | [章节Java源码](https://github.com/liuyubobobo/Play-with-Algorithms/tree/master/06-Union-Find/Course%20Code%20(Java)) |
 | 6-1 并查集基础（Union Find）| [无代码] |  |
 | 6-2 Quick Find | [C++源码](https://github.com/liuyubobobo/Play-with-Algorithms/tree/master/06-Union-Find/Course%20Code%20(C%2B%2B)/02-Quick-Find) | [Java源码](https://github.com/liuyubobobo/Play-with-Algorithms/tree/master/06-Union-Find/Course%20Code%20(Java)/02-Quick-Find/src/bobo/algo) |
@@ -221,4 +236,6 @@
 
 ---
 
-由于慕课网规定，课程不再提供PPT下载，请谅解。
+由于慕课网规定，课程不再提供PPT下载，仅提供ppt转pdf水印版，请谅解。具体文件在各章文件夹下。
+
+**大家加油！：）**
